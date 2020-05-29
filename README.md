@@ -11,3 +11,12 @@ With this, I've tried to automate the training process of ML model with docker c
 
 ## Overall Functioning : 
 
+
+## Steps : 
+
+
+
+
+> The project is under development
+
+> Stay tuned
