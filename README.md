@@ -14,6 +14,10 @@ With this, I've tried to automate the training process of ML model with docker c
 
 ## Steps : 
 
+### 1. Dockerfile
+![dockerfile](./img/dockerfile.png)
+
+You can download the image from [docker hub](https://hub.docker.com/).
 
 
 
