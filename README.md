@@ -4,7 +4,9 @@
 In this project, I aim to achieve the end-to-end integration and functioning of a ML model deployed in a container tightly maintained with Jenkins.
 
 ## ML Model : 
-The ML model 
+The following is a Convolutional Neural Network (code.py) 
+The first convolutional layer will act as an input layer, so we are not considering it while tweaking the model.
+Initially when we run this tweaking code for first time, it will check the convolutional layers in the model program if it is less then 2 (here the count is 0) then it will add convolutional layers with max pooling layer and also increase the epochs by 1. 
 
 ## DevOps : 
 With this, I've tried to automate the training process of ML model with docker containers to involve least human interaction and labour.
